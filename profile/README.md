@@ -30,4 +30,4 @@ Redacta aca pete
 XD
 
 # Contacto
-He aqui los correos y esa webd
+He aqui los correos y esas webds
